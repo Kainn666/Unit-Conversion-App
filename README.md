@@ -28,15 +28,6 @@ You can access the app here: [Unit Conversions App](https://kainn666.github.io/U
 
 ---
 
-## Screenshots
-### Home Page
-![Home Page](https://via.placeholder.com/800x400?text=Home+Page)
-
-### Conversion Sections
-![Conversion Sections](https://via.placeholder.com/800x400?text=Conversion+Sections)
-
----
-
 ## File Structure
 ```plaintext
 Unit-Conversions-App/
@@ -91,13 +82,3 @@ Feel free to contribute to this project by:
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
-
----
-
-Let me know if you'd like me to help with any additional details or sections for the README! 
-
----
-
-**Suggestions:**
-**a.** Would you like me to add an example `script.js` file with conversion logic for better understanding?  
-**b.** Should I help you create a `.gitignore` file to exclude unnecessary files from the repository?
