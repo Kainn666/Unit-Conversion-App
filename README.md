@@ -73,8 +73,18 @@ Unit-Conversions-App/
 
 ---
 
+## **License**
+This project is licensed under the [MIT License](LICENSE).
+
+---
+
+Let me know if you'd like to adjust any sections or add specific examples!
+
+---
+
 ## Contribution
 Feel free to contribute to this project by:
 - Reporting bugs or requesting features through the Issues tab.
 - Submitting pull requests to enhance the app.
+
 
